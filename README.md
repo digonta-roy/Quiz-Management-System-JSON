@@ -17,6 +17,48 @@ A simple console-based quiz application with role-based access:
 
 ---
 
+### users.json
+
+```json
+[
+  {
+    "username": "admin",
+    "password": "1234",
+    "role": "admin"
+  },
+  {
+    "username": "salman",
+    "password": "1234",
+    "role": "student"
+  }
+]
+```
+
+### quiz.json
+
+```json
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  }
+]
+```
+
+
+---
+
+## 📊 Quiz Flow & Scoring
+
+- The student receives 10 random questions from the question bank.
+- Each correct answer awards 1 point.
+- No negative marking for incorrect answers.
+
+
 ## Tech Stack
 
 - **Language:** Java  
