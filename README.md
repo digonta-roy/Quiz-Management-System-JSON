@@ -69,10 +69,15 @@ A simple console-based quiz application with role-based access:
 
 | Score Range | Performance     | Feedback        |
 |-------------|-----------------|-----------------|
-| 8 - 10      | Excellent       |  Well done!   |
-| 5 - 7       | Good            |  Keep it up!  |
-| 3 - 4       | Very Poor       |  Needs improvement |
-| 0 - 2       | Failed          |  Try again!   |
+| 8 - 10      | Excellent       |  You have got [marks] out of 10   |
+| 5 - 7       | Good            |  You have got [marks] out of 10  |
+| 3 - 4       | Very Poor       |  You have got [marks] out of 10 |
+| 0 - 2       | Very Sorry         |  You have got [marks] out of 10   |
 
-## Student Video
+## Student login and completing a quiz Video
 https://github.com/user-attachments/assets/43f1cdb6-5c50-4bb2-a51e-263778c7a21b
+
+## Admin  login and adding questions Video
+https://github.com/user-attachments/assets/4cf2de70-7ad9-403d-904a-ef85b2fea5c4
+
+
