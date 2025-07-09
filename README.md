@@ -74,3 +74,5 @@ A simple console-based quiz application with role-based access:
 | 3 - 4       | Very Poor       |  Needs improvement |
 | 0 - 2       | Failed          |  Try again!   |
 
+## Student Video
+https://github.com/user-attachments/assets/43f1cdb6-5c50-4bb2-a51e-263778c7a21b
